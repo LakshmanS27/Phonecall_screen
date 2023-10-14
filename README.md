@@ -1,6 +1,6 @@
-# weekone
+# Phonecall Screen
 
-A new Flutter project.
+A new Flutter project to create a basic phonecall screen.
 
 ## Getting Started
 
